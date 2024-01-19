@@ -1,2 +1,2 @@
 # data-analytics-30days-journey
-My data analytics journey of 30 days
+I have made this repository with my 30 days of journey in data analytics. 
